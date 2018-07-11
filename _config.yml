@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "mleavitt.net"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Matthew Leavitt"
+description              : &description "Personal Website"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Matthew Leavitt, PhD"
   avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Montréal"
   employer         :
-  googlescholar    : "https://scholar.google.ca/citations?user=S3-M5Z8AAAAJ&hl=en
+  googlescholar    : "https://scholar.google.ca/citations?user=S3-M5Z8AAAAJ&hl=en"
   email            : "matthew [at] mleavitt.net"
   uri              :
   bitbucket        :
