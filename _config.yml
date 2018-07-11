@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.ca/citations?user=S3-M5Z8AAAAJ&hl=en
+  email            : "matthew [at] mleavitt.net"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@leavittron"
   vine             :
   weibo            :
   xing             :
