@@ -80,7 +80,9 @@ analytics:
 author:
   name             : "Matthew Leavitt"
   avatar           : "profile.jpg"
-  bio              : "Excited about biological and synthetic brains.\nPhD in Systems and Computational Neuroscience, McGill"
+  bio              : "Excited about biological and synthetic brains.\n
+  \n
+  PhD in Systems and Computational Neuroscience, McGill"
   location         : "Montréal"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=S3-M5Z8AAAAJ&hl=en"
