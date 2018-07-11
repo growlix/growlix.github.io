@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : "Matthew Leavitt, PhD"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Interested in brains, biological and synthetic."
-  location         : "Location"
+  location         : "Montréal"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=S3-M5Z8AAAAJ&hl=en"
   email            : "matthew.l.leavitt [at] gmail.com"
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@leavittron"
   vine             :
   weibo            :
   xing             :
