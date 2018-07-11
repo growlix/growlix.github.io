@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew Leavitt"
+title                    : "mleavitt.net"
 title_separator          : "-"
 name                     : &name "Matthew Leavitt"
 description              : &description "Personal website"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &leavittron
 facebook:
   username               :
   app_id                 :
