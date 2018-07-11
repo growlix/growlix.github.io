@@ -1,5 +1,6 @@
 ---
-title: "Paper Title Number 1"
+title: "Structure of spike count correlations reveals functional interactions
+ between neurons in dorsolateral prefrontal cortex area 8a of behaving primates"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
