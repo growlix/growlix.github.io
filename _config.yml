@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "mleavitt.net"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Matthew Leavitt"
-description              : &description "Personal website"
-url                      : https://growlix.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/growlix/growlix.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &leavittron
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matthew Leavitt, PhD"
-  avatar           : "profile.jpg"
-  bio              : "Passionate about understanding and explaining biological and synthetic intelligence."
-  location         : "Torotno test"
-  employer         : "brapzilla"
-  googlescholar    : "https://scholar.google.ca/citations?user=S3-M5Z8AAAAJ&hl=en"
-  email            : "matthew [at] mleavitt.net"
-  uri              : "what about now"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-0779-108X"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@leavittron"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
