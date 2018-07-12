@@ -1,6 +1,6 @@
 ---
 title: "Prefrontal cortex ensemble activity during associative visuomotor rule learning in primates"
-excerpt: "Society for Neuroscience 2017<br/><img src='/images/Leavitt_CAN_2017_Poster.png'>"
+excerpt: "Society for Neuroscience 2017<br/><img src='/images/Leavitt_CAN_2017_Poster.png' style="width:50%>"
 collection: posters
 ---
 
