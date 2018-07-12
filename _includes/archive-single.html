@@ -55,6 +55,14 @@
     <!-- {% if post.excerpt and site.read_more != 'enabled' %} -->
     <p class="archive__item-excerpt" itemprop="description">
       {{ post.content | markdownify }}
+
+      {% if post.collection == 'posters' %}
+        <a href="{{ post.file }}">
+          <img src="{{ post.preview }}">
+        </a>
+
+      {% endif %}
+
     </p>
     <!-- {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">
