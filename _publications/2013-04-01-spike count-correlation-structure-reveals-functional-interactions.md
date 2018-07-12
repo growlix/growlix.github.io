@@ -8,7 +8,7 @@ excerpt: "Neurons that process sensory information are often arranged topographi
 date: 2013-04-01
 venue: 'PLoS ONE'
 paperurl: "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061503"
-citation:
+citation: <b>ML Leavitt</b>, F Pieper, AJ Sachs, JC Martinez-Trujillo
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
