@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Renowned Experimental Thiccboi"
+excerpt: "Renowned Experimental Thiccboi"
 author_profile: true
 redirect_from:
   - /about/
