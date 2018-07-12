@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "I study the neurobiology of cognition."
 author_profile: true
 redirect_from:
   - /about/
