@@ -17,6 +17,9 @@ main:
     # TODO: swap this in once it's working
     # url: /brainmap/
 
+  - title: "CV"
+    url: /files/CAN_2015_Poster_Leavitt.pdf
+
   # - title: "Blog Posts"
   #   url: /year-archive/
 
