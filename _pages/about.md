@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I traded the warmth and sun  
+I traded the warmth and sun of
 [Northern California](https://en.wikipedia.org/wiki/Contra_Costa_County,_California)
 for the frosty excitement
 
