@@ -1,8 +1,6 @@
 ---
 title: "A quadrantic bias in prefrontal representation of visual-mnemonic space"
 collection: publications
-permalink:
-# excerpt: ""
 date: 2017-06-09
 venue: 'Cerebral Cortex'
 paperurl: "https://pdfs.semanticscholar.org/8592/108f6fe8988832243d1edb87531dbca35978.pdf"
