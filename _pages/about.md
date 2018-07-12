@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+I'm a post-doctoral researcher studying how
 I traded the warmth and sun of
 [Northern California](https://en.wikipedia.org/wiki/Contra_Costa_County,_California)
 for the frosty excitement of test
