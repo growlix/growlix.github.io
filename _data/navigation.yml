@@ -13,7 +13,7 @@ main:
     url: /posters/
 
   - title: "Working Memory Brain Map"
-    url: http://mleavitt.net/WM_BrainMap/
+    url: /WM_BrainMap/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
