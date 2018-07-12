@@ -43,12 +43,14 @@
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}
       <p>
+      <u>
         <a href="{{ post.paperurl }}">
           {{post.citation}}
           <br>
           <i>{{ post.venue }}</i>
           ({{ post.date | default: "1900-01-01" | date: "%Y" }})
         </a>
+      </u>
       </p>
     {% endif %}
 
@@ -60,7 +62,12 @@
         <a href="{{ post.file }}">
           <img src="{{ post.preview }}">
         </a>
+      {% endif %}
 
+      {% if post.collection == 'publications' and post.image %}
+        <p class="text-center">
+          <img src="{{ post.image }}">
+        </p>
       {% endif %}
 
     </p>
