@@ -2,11 +2,11 @@
 title: "Structure of spike count correlations reveals functional interactions
  between neurons in dorsolateral prefrontal cortex area 8a of behaving primates"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061503"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
