@@ -16,6 +16,4 @@ While these sophisticated techniques give researchers greater insight, they also
 
 Through this research, I have developed a more general interest in how complex systems and high-dimensional information can be [represented humanely](http://worrydream.com/#!/TheHumaneRepresentationOfThoughtTalk) and communicated meaningfully. This flowed naturally from the process of discovering and mastering techniques for complex data analysis (we mostly just stole from the machine learning community), and sharing my work with others.
 
-In the process of finding and learning techniques for complex data analysis (we mostly stole them from the machine learning community) and communicating my research, I have developed a more general interest in how complex systems and high-dimensional information can be [represented humanely](http://worrydream.com/#!/TheHumaneRepresentationOfThoughtTalk) and communicated meaningfully.
-
 My other hobbies include organizing [software engineering conferences](https://en.wikipedia.org/wiki/Canadian_University_Software_Engineering_Conference#CUSEC_2012:_Turing_Complete,_January_19%E2%80%9323,_2012_Montreal,_Quebec), [training](/images/cloe_balancing_rice_cake.jpg) [my](/images/clobertasaurus.jpg) [dog](/images/queenest_bean_of_the_good_girls.jpg), and producing and consuming music and food.
