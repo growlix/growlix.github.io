@@ -1,9 +1,9 @@
 ---
-title: "Prefrontal cortex ensemble activity during associative visuomotor rule learning in primates"
+title: "Learning-related modulation of rule representation in primate prefrontal cortex ensembles"
 collection: posters
 
-preview: /images/Leavitt_SfN_2017_Poster.png
-file: /files/Leavitt_SfN_2017_Poster.pdf
+preview: /images/leavitt_neuroinformatics_2018_poster.png
+file: /files/leavitt_neuroinformatics_2018_poster.pdf
 ---
 
-Society for Neuroscience 2017
+NeuroInformatics 2018

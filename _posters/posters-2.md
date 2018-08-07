@@ -1,9 +1,9 @@
 ---
-title: "Correlated variability modifies working memory fidelity in primate prefrontal neuronal ensembles"
+title: "Prefrontal cortex ensemble activity during associative visuomotor rule learning in primates"
 collection: posters
 
-preview: /images/Leavitt_CAN_2017_Poster.png
-file: /files/Leavitt_CAN_2017_Poster.pdf
+preview: /images/Leavitt_SfN_2017_Poster.png
+file: /files/Leavitt_SfN_2017_Poster.pdf
 ---
 
-Canadian Association for Neuroscience 2017
+Society for Neuroscience 2017
