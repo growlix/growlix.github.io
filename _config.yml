@@ -80,9 +80,8 @@ analytics:
 author:
   name             : "Matthew Leavitt, PhD"
   avatar           : "profile.jpg"
-  bio              : "Systems and Computational Neuroscience,
-  <a href='https://www.mcgill.ca/'>McGill</a>, <a href='http://www.uwo.ca/'>UWO</a>, and
-  <a href='https://ai.facebook.com/'>FAIR</a>.
+  bio              : "Former AI resident at <a href='https://ai.facebook.com/'>FAIR</a>,
+  systems and computational neuroscience PhD from <a href='https://www.mcgill.ca/'>McGill</a>.
   Excited about understanding and explaining synthetic and biological intelligence."
   location         : "Bay Area, California"
   employer         :
