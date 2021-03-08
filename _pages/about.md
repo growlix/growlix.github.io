@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**UPDATE: I'm currently an AI Resident at [FAIR](https://ai.facebook.com/) working on empirical approaches to understanding deep learning systems with [Ari Morcos](http://www.arimorcos.com/)**.
+I recently finished 1.5 years as an AI Resident at [FAIR](https://ai.facebook.com/), in which I applied empirical approaches to understanding deep learning systems under the supervision of [Ari Morcos](http://www.arimorcos.com/) and [Sergey Edunov](https://scholar.google.com/citations?user=5w7uYrIAAAAJ&hl=en).
 
-A friend once described my work as "translating weak electrical discharges in the brain into strong scientific statements about the mind". I study the neurobiology of cognition.
+For my doctoral work, I studied the neurobiology of cognition. A friend once described my work as "translating weak electrical discharges in the brain into strong scientific statements about the mind".
 
 One traditional way of investigating brain function is by [recording the electrical activity of single neurons](https://en.wikipedia.org/wiki/Single-unit_recording) while a research subject engages in a specific behavior. Recent technological advances have expanded on this model, making it possible to record the activity of large groups of neurons simultaneously. This advancement provides novel opportunities for understanding how entire networks of neurons coordinate to enact complex cognitive behavior.
 
