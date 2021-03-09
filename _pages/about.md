@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently finished 1.5 years as an AI Resident at [FAIR](https://ai.facebook.com/), in which I applied empirical approaches to understanding deep learning systems under the supervision of [Ari Morcos](http://www.arimorcos.com/) and [Sergey Edunov](https://scholar.google.com/citations?user=5w7uYrIAAAAJ&hl=en).
+I recently finished 1.5 years as an AI Resident at [FAIR](https://ai.facebook.com/), in which I applied empirical approaches to understand deep learning systems under the supervision of [Ari Morcos](http://www.arimorcos.com/) and [Sergey Edunov](https://scholar.google.com/citations?user=5w7uYrIAAAAJ&hl=en).
 
 For my doctoral work, I studied the neurobiology of cognition. A friend once described my work as "translating weak electrical discharges in the brain into strong scientific statements about the mind".
 
