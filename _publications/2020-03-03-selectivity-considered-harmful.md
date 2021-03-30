@@ -1,8 +1,8 @@
 ---
-title: "Selectivity considered harmful: evaluating the causal impact of class selectivity in DNNs"
+title: "Selectivity considered harmful: evaluating the causal impact of class selectivity in DNNs \*accepted to ICLR 2021!\*"
 collection: publications
-date: 2021-05-04
-venue: 'ICLR'
+date: 2020-03-01
+venue: 'arXiv'
 paperurl: "https://openreview.net/forum?id=8nl0k08uMi"
 citation: <b>ML Leavitt</b>, AS Morcos 
 image: /images/publications-2021-03-selectivity-considered-harmful-image.png
