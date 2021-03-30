@@ -1,7 +1,7 @@
 ---
 title: "Linking average- and worst-case perturbation robustness via class selectivity and dimensionality"
 collection: publications
-date: 2020-07
+date: 2020-07-17
 venue: 'ICML Workshop on Uncertainty and Robustness in Deep Learning'
 paperurl: "https://openreview.net/pdf?id=arD29HCZG6O"
 citation: <b>ML Leavitt</b>, AS Morcos
