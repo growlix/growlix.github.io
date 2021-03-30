@@ -1,5 +1,5 @@
 ---
-title: "Selectivity considered harmful: evaluating the causal impact of class selectivity in DNNs \*accepted to ICLR 2021!\*"
+title: "Selectivity considered harmful: evaluating the causal impact of class selectivity in DNNs *accepted to ICLR 2021!*"
 collection: publications
 date: 2020-03-01
 venue: 'arXiv'
