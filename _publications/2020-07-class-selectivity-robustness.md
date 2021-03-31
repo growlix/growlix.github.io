@@ -3,7 +3,7 @@ title: "Linking average- and worst-case perturbation robustness via class select
 collection: publications
 date: 2020-07-17
 venue: 'arXiv'
-paperurl: "https://openreview.net/pdf?id=arD29HCZG6O"
+paperurl: "https://arxiv.org/abs/2010.07693"
 citation: <b>ML Leavitt</b>, AS Morcos
 image: /images/publications-2020-07-selectivity-robustness.png
 ---
