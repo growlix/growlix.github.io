@@ -22,4 +22,6 @@ Both my neuroscience and machine learning research have been motivated by an int
 
 [comment]: <> (This flowed naturally from the process of discovering and mastering techniques for complex data analysis &#40;we mostly just stole from the machine learning community&#41;, and sharing my work with others.)
 
+I'm a contributor to [vissl](https://vissl.ai/), FAIR's library for self-supervised learning.
+
 My other hobbies include organizing [software engineering conferences](https://en.wikipedia.org/wiki/Canadian_University_Software_Engineering_Conference#CUSEC_2012:_Turing_Complete,_January_19%E2%80%9323,_2012_Montreal,_Quebec), [training](/images/cloe_balancing_rice_cake.jpg) [my](/images/clobertasaurus.jpg) [dog](/images/queenest_bean_of_the_good_girls.jpg), and producing and consuming music and food.
