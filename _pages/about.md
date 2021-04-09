@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My primary research interest is furthering the science of deep learning—developing and conducting rigorous, empirical experiments to better understand deep learning systems—and using the resulting insights to improve the performance, efficiency, andhuman-interpretability of these systems.
+My primary research interest is furthering the science of deep learning—developing and conducting rigorous, empirical experiments to better understand deep learning systems—and using the resulting insights to improve the performance, efficiency, and human-interpretability of these systems.
 
-I recently finished 1.5 years as an AI Resident at [FAIR](https://ai.facebook.com/), in which I applied empirical approaches to understand deep learning systems under the supervision of [Ari Morcos](http://www.arimorcos.com/) and [Sergey Edunov](https://scholar.google.com/citations?user=5w7uYrIAAAAJ&hl=en).
+I recently finished 1.5 years as an AI Resident at [FAIR](https://ai.facebook.com/), in which I applied empirical approaches to understand deep learning systems under the supervision of [Ari Morcos](http://www.arimorcos.com/) and [Sergey Edunov](https://scholar.google.com/citations?user=5w7uYrIAAAAJ&hl=en). The [publications](https://mleavitt.net/publications/) section of my site has summaries of all my work.
 
-For my doctoral work, I studied the neurobiology of cognition. A friend once described my work as "translating weak electrical discharges in the brain into strong scientific statements about the mind".
+For my doctorate I studied the neurobiology of cognition at McGill University in Montréal with Julio Martinez-Trujillo. A friend once described my work as "translating weak electrical discharges in the brain into strong scientific statements about the mind".
 
 [comment]: <> (One traditional way of investigating brain function is by [recording the electrical activity of single neurons]&#40;https://en.wikipedia.org/wiki/Single-unit_recording&#41; while a research subject engages in a specific behavior. Recent technological advances have expanded on this model, making it possible to record the activity of large groups of neurons simultaneously. This advancement provides novel opportunities for understanding how entire networks of neurons coordinate to enact complex cognitive behavior.)
 
