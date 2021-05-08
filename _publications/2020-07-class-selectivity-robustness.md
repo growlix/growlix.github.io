@@ -8,7 +8,6 @@ citation: <b>ML Leavitt</b>, AS Morcos
 image: /images/publications-2020-07-selectivity-robustness.png
 ---
 Also appeared in <i>ICML Workshop on Uncertainty and Robustness in Deep Learning</i> (2020)\
-Under review in an archival venue
 
 **Featured on the Facebook AI Blog:** [Easy-to-interpret neurons may hinder learning in deep neural networks](https://ai.facebook.com/blog/easy-to-interpret-neurons-may-hinder-learning-in-deep-neural-networks/)
 

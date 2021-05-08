@@ -1,13 +1,12 @@
 ---
 title: "Selectivity considered harmful: evaluating the causal impact of class selectivity in DNNs"
 collection: publications
-date: 2020-03-01
-venue: 'arXiv'
+date: 2021-03-01
+venue: 'ICLR'
 paperurl: "https://openreview.net/forum?id=8nl0k08uMi"
 citation: <b>ML Leavitt</b>, AS Morcos 
 image: /images/publications-2021-03-selectivity-considered-harmful-image.png
 ---
-To appear in <i>ICLR</i> (2021)\
 Also appeared in <i>ICML Workshop on Human Interpretability in Machine Learning</i> (2020)
 
 **Featured on the Facebook AI Blog:** [Easy-to-interpret neurons may hinder learning in deep neural networks](https://ai.facebook.com/blog/easy-to-interpret-neurons-may-hinder-learning-in-deep-neural-networks/)
