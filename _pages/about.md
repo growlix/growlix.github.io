@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My primary research interest is furthering the science of deep learning—developing and conducting rigorous, empirical experiments to better understand deep learning systems—and using the resulting insights to improve the performance, efficiency, and human-interpretability of these systems.
+My primary research interest is furthering the science of deep learning—developing and conducting rigorous, empirical experiments to better understand deep learning systems—and using the resulting insights to improve the performance, efficiency, and human-interpretability of these systems. I'm currently pursuing these interests as a researcher at [MosaicML](https://www.mosaicml.com/).
 
-I recently finished 1.5 years as an AI Resident at [FAIR](https://ai.facebook.com/), in which I applied empirical approaches to understand deep learning systems under the supervision of [Ari Morcos](http://www.arimorcos.com/) and [Sergey Edunov](https://scholar.google.com/citations?user=5w7uYrIAAAAJ&hl=en). The [publications](https://mleavitt.net/publications/) section of my site has summaries of all my work.
+I also spent 1.5 years as an AI Resident at [FAIR](https://ai.facebook.com/), where I applied empirical approaches to understand deep learning systems under the supervision of [Ari Morcos](http://www.arimorcos.com/) and [Sergey Edunov](https://scholar.google.com/citations?user=5w7uYrIAAAAJ&hl=en). The [publications](https://mleavitt.net/publications/) section of my site has summaries of all my work.
 
 For my doctorate I studied the neurobiology of cognition at McGill University in Montréal with Julio Martinez-Trujillo. A friend once described my work as "translating weak electrical discharges in the brain into strong scientific statements about the mind".
 
