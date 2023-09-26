@@ -80,9 +80,11 @@ analytics:
 author:
   name             : "Matthew Leavitt, PhD"
   avatar           : "profile.jpg"
-  bio              : "Former AI resident at <a href='https://ai.facebook.com/'>FAIR</a>,
-  PhD in systems and computational neuroscience from <a href='https://www.mcgill.ca/'>McGill</a>.
-  Excited about understanding and explaining synthetic and biological intelligence."
+  bio              : "Current: Cofounder and Chief Scientist at something new. Former: Head of Data 
+  Research at <a hfref='https://www.mosaicml.com/'>MosaicML</a>; AI resident at 
+  <a href='https://ai.facebook.com/'>FAIR</a>, neuroscience PhD from 
+  <a href='https://www.mcgill.ca/'>McGill</a>. Excited about understanding and explaining 
+  synthetic and biological intelligence."
   location         : "Bay Area, California"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=S3-M5Z8AAAAJ&hl=en"
