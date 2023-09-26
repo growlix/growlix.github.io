@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*UPDATE:* I am working on something new related to data and machine learning. If you are a scientist or engineer who wants to improve deep learning models by intervening on training data, please get in touch. 
+*UPDATE: I am working on something new related to data and machine learning. If you are an experienced research scientist and/or engineer who wants to build tools to improve deep learning models by intervening on training data, please get in touch.*
 
 My primary research interest is furthering the science of deep learning—developing and conducting rigorous, empirical experiments to better understand deep learning systems—and using the resulting insights to improve the performance, efficiency, and human-interpretability of these systems. I used to pursue these interests as the Head of Data Research at [MosaicML](https://www.mosaicml.com/).
 
