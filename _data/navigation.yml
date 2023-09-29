@@ -12,8 +12,8 @@ main:
   - title: "Research Posters"
     url: /posters/
 
-  - title: "Working Memory Brain Map"
-    url: /WM_BrainMap/
+  # - title: "Working Memory Brain Map"
+    # url: /WM_BrainMap/
     # TODO: swap this in once it's working
     # url: /brainmap/
 
