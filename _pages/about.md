@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am the co-founder and Chief Scientist of [DatologyAI](https://www.datologyai.com/), where our automated data curation platform enables customers to train world-class foundation models. If you're an experienced research scientist and/or engineer who wants to build tools to improve deep learning models by intervening on training data, please get in touch.
+I am the co-founder and Chief Science Officer of [DatologyAI](https://www.datologyai.com/), where our automated data curation platform enables customers to train world-class foundation models. If you're an experienced research scientist and/or engineer who wants to build tools to improve deep learning models by intervening on training data, please get in touch.
 
 Previously I was Head of Data Research at [MosaicML](https://www.mosaicml.com/).
 
